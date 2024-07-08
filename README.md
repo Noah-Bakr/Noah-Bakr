@@ -3,7 +3,7 @@
 Dynamic and driven Cybersecurity Cadet with a passion for safeguarding vital data against emerging threats. Currently completing a cadetship program endorsed by CS in Schools, while pursuing advanced studies in Cybersecurity. With a background in game development and coding, I bring a unique perspective to Cybersecurity, combining creativity with technical expertise.
 
 🎓 Bachelor of Cybersecurity (Professional) @ RMIT <br>
-🌱 Cadetship at CS in Schools
+🌱 Cadetship @ CS in Schools
 
 <!--
 **Noah-Bakr/Noah-Bakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
