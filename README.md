@@ -23,13 +23,22 @@ Dynamic and driven Cybersecurity Cadet with a passion for safeguarding vital dat
 <br />
 
 #
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Bakr&theme=blue-green">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Noah-Bakr&theme=blue-green"> --> <!-- GitHub stats hidden due to limited data -->
 
 ### 📫 My Connections
 
 <p align="left">
   <a href="https://www.linkedin.com/in/noah-bakr/"> <!-- target='_blank' does not work in markdown -->
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:noahbakr@outlook.com">
+    <img alt="Email" title="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> <!-- Change 'Microsoft_Outlook' in 'badge/Microsoft_Outlook-0078D4?' to edit display label -->
 </p>
+
+
+
 
 <!--
 **Noah-Bakr/Noah-Bakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
