@@ -23,12 +23,15 @@ Dynamic and driven Cybersecurity Cadet with a passion for safeguarding vital dat
 <br />
 
 #
+
 ### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Bakr&theme=blue-green">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Noah-Bakr&theme=blue-green"> --> <!-- GitHub stats hidden due to limited data -->
 
-### 📫 My Connections
+---
+
+### 📫 Connections
 
 <p align="left">
   <a href="https://www.linkedin.com/in/noah-bakr/"> <!-- target='_blank' does not work in markdown -->
