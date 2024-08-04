@@ -42,7 +42,7 @@ Skills, but not showcased...
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Bakr&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Bakr&layout=compact&theme=blue-green">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Noah-Bakr&theme=blue-green"> --> <!-- GitHub stats hidden due to limited data -->
 
 ---
