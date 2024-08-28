@@ -53,7 +53,7 @@ Skills, but not showcased...
   <a href="https://www.linkedin.com/in/noah-bakr/"> <!-- target='_blank' does not work in markdown -->
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;  <!-- adds space between buttons -->
   <a href="mailto:noahbakr@outlook.com">
-    <img alt="Email" title="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>&nbsp; <!-- Change 'Microsoft_Outlook' in 'badge/Microsoft_Outlook-0078D4?' to edit display label -->
+    <img alt="Email" title="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>&nbsp; <!-- Change 'Microsoft_Outlook' in 'badge/Microsoft_Outlook-0078D4?' to edit display label -->
   <a href="https://www.credly.com/users/noah-bakr">
     <img alt="Credly" title="Credly" src="https://img.shields.io/badge/Credly-367055?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </p>
