@@ -19,20 +19,22 @@ Dynamic and driven Cybersecurity Cadet with a passion for safeguarding vital dat
 <img align="left" alt="Unity" title="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 <img align="left" alt="Blender" title="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <img align="left" alt="C++" title="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+<img align="left" alt="Notion" title="Notion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+<img align="left" alt="Slack" title="Slack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
 
 
 
 
 <!-- 
 On the way...
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
 <img align="left" alt="Godot" title="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 
 Skills, but not showcased...
-<img align="left" alt="Notion" title="Notion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-<img align="left" alt="Slack" title="Slack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
+
 <img align="left" alt="Visual Studio" title="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 -->
@@ -42,8 +44,9 @@ Skills, but not showcased...
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Bakr&layout=compact&theme=blue-green">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Noah-Bakr&theme=blue-green"> --> <!-- GitHub stats hidden due to limited data -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Bakr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Noah-Bakr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Noah-Bakr&theme=tokyonight&hide_border=true)<br/> -->
 
 ---
 
@@ -56,9 +59,15 @@ Skills, but not showcased...
     <img alt="Email" title="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>&nbsp; <!-- Change 'Microsoft_Outlook' in 'badge/Microsoft_Outlook-0078D4?' to edit display label -->
   <a href="https://www.credly.com/users/noah-bakr">
     <img alt="Credly" title="Credly" src="https://img.shields.io/badge/Credly-367055?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-</p>
+  </p> 
 
 
+  <!--
+  <a href="https://www.behance.net/noahbakr3d">
+    <img alt="Behance" title="Behance" src="https://img.shields.io/badge/behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>&nbsp;
+  <a href="https://www.artstation.com/noahbakr3d">
+    <img alt="ArtStation" title="ArtStation" src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=ArtStation&logoColor=white"></a>&nbsp;
+-->
 
 
 <!--
