@@ -4,8 +4,6 @@
 
 <img align="right" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ4eG14OWI4ZzUxcXZkM2FxYXN6a3JsZTRvemtlMGg4MnJsMXd6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-###
-
 <p align="left">🎓 Bachelor of Cybersecurity (Professional) @ RMIT<br>👨‍💻 Open-Source Contributor (Rapid Router) @ Code for Life<br>🌱 Cadetship @ CS in Schools</p>
 
 ###
