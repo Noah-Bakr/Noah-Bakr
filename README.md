@@ -90,7 +90,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noah-bakr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<!--	https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black -->
 <!--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=noah-bakr&theme=dracula&column=9&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -102,7 +101,10 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/noah-bakr/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  /></a>
   <a href="mailto:noahbakr@outlook.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" alt="microsoft-outlook logo"  /></a>
+  <a href="https://www.credly.com/users/noah-bakr"><img alt="Credly" title="Credly" src="https://img.shields.io/badge/Credly-367055?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  /></a>
+  <a href="https://leetcode.com/u/noahbakr/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Leetcode logo"  /></a>
   <a href="https://linktr.ee/noahbakr3d" target="_blank"><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=009000&logoColor=white&labelColor=&style=for-the-badge" alt="linktree logo"  /></a>
+  
 </div>
 
 <!--<div align="left">
