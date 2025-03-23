@@ -1,10 +1,10 @@
 <h1 align="left">Hello, I'm Noah Bakr.</h1>
 
-<p align="left">🎓 Bachelor of Cybersecurity (Professional) @ RMIT<br>👨‍💻 Open-Source Contributor (Rapid Router) @ Code for Life<br>🌱 Cadetship @ CS in Schools</p>
-
-<h2 align="left">About me</h2>
-
 <p align="left">Dynamic and driven Cybersecurity Cadet with a passion for safeguarding vital data against emerging threats. I have contributed to Code for Life’s RapidRouter game and gained industry insights through a CS in Schools cadetship, while pursuing advanced studies in Cybersecurity. With a background in game development and coding, I bring a unique perspective to Cybersecurity, combining creativity with technical expertise and passion. Eager to leverage a unique blend of technical skills and industry experience to strengthen online security.</p>
+
+<h2 align="left"></h2>
+
+<p align="left">🎓 Bachelor of Cybersecurity (Professional) @ RMIT<br>👨‍💻 Open-Source Contributor (Rapid Router) @ Code for Life<br>🌱 Cadetship @ CS in Schools</p>
 
 <h2 align="left">Coding Languages</h2>
 
@@ -62,40 +62,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-<h2 align="left"></h2>
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noah-bakr/noah-bakr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noah-bakr/noah-bakr/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/noah-bakr/noah-bakr/output/pacman-contribution-graph.svg">
 </picture>
+-->
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noah-bakr/noah-bakr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noah-bakr/noah-bakr/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/noah-bakr/noah-bakr/output/github-snake.svg" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/noah-bakr/noah-bakr/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left"></h2>
-
-###
+<br><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noah-bakr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noah-bakr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
+<!--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=noah-bakr&theme=dracula&column=9&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
+-->
 
 <h2 align="left">Connections</h2>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/noah-bakr/" target="_blank">
