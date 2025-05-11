@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Noah Bakr.</h1>[![](https://visitcount.itsvg.in/api?id=noah-bakr&icon=0&color=0)](https://visitcount.itsvg.in)
+<h1 align="left">Hello, I'm Noah Bakr.</h1> 
 
 <p align="left">Dynamic and driven Cybersecurity Cadet with a passion for safeguarding vital data against emerging threats. I have contributed to Code for Life’s RapidRouter game and gained industry insights through a CS in Schools cadetship, while pursuing advanced studies in Cybersecurity. With a background in game development and coding, I bring a unique perspective to Cybersecurity, combining creativity with technical expertise and passion. Eager to leverage a unique blend of technical skills and industry experience to strengthen online security.</p>
 
