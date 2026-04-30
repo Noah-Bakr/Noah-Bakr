@@ -158,11 +158,11 @@
 [![Linktree](https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=009000&logoColor=white&labelColor=&style=for-the-badge)](https://linktr.ee/noahbakr3d)-->
 
 <div align="left">
-<a href="https://www.linkedin.com/in/noah-bakr" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/></a>
-<a href="mailto:noahbakr@outlook.com" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
-<a href="https://leetcode.com/u/noahbakr" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/></a>
-<a href="https://www.credly.com/users/noah-bakr" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/Credly-%23ff6a00?logo=credly&style=for-the-badge&logoColor=808080" alt="Credly"/></a>
-<a href="https://linktr.ee/noahbakr3d" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=009000&logoColor=white&labelColor=&style=for-the-badge" alt="Linktree"/></a>
+  <a href="https://www.linkedin.com/in/noah-bakr" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:noahbakr@outlook.com" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
+  <a href="https://leetcode.com/u/noahbakr" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://www.credly.com/users/noah-bakr" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/Credly-%23ff6a00?logo=credly&style=for-the-badge&logoColor=808080" alt="Credly"/></a>
+  <a href="https://linktr.ee/noahbakr3d" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=009000&logoColor=white&labelColor=&style=for-the-badge" alt="Linktree"/></a>
   
 </div>
 
