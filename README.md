@@ -2,7 +2,15 @@
 
 
 
-<p align="left">Dynamic and driven Cybersecurity Cadet with a passion for safeguarding vital data against emerging threats. I have contributed to Code for Life’s RapidRouter game and gained industry insights through a CS in Schools cadetship, while pursuing advanced studies in Cybersecurity. With a background in game development and coding, I bring a unique perspective to Cybersecurity, combining creativity with technical expertise and passion. Eager to leverage a unique blend of technical skills and industry experience to strengthen online security.</p>
+<p align="left">I’m a Cyber Security student at RMIT University specialising in Enterprise Systems Development, with a strong foundation in security, networking, software development and infrastructure.
+
+I’ve applied these skills through cybersecurity competitions, placing 16th out of 112 teams in the Australian Defence Force Cyber Skills Challenge, and through my role as a DevOps Engineer with RMIT Information Security Collective, where I deploy and secure production cybersecurity infrastructure using Docker, Nginx, DNS, SSL and VPS environments.
+
+My interest in cybersecurity started with reverse engineering and malware, and has grown into a passion for understanding how systems can be exploited and how they can be better defended. I enjoy solving complex problems, learning continuously and taking on unfamiliar technical challenges.
+
+I’m now seeking an entry-level cybersecurity, security engineering, SOC or infrastructure role where I can contribute, keep learning and build a long-term career in cybersecurity.
+
+</p>
 
 <h2 align="left"></h2>
 
